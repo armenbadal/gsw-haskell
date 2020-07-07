@@ -1,2 +1,3 @@
-# gsw-haskell
-Փորձեր Haskell լեզվով։
+# Փորձեր Haskell լեզվով
+
+[Օր առաջին](ch01.md)
